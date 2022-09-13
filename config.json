@@ -1,0 +1,15 @@
+{
+    "ip": "ANDRAXGAMING.aternos.me",
+    "port": "56175",
+    "name": "kartik-bhai",
+    "password": "",
+    "auto-night-skip": "true",
+    "prefix": "",
+    "login-enabled": "false",
+    "register-cmd": "/login kartikopp kartikopp",
+    "login-cmd": "/login kartikopp",
+    "loginmsg": "done",
+    "auto-reconnect": "true",
+    "web": "true"
+    
+}

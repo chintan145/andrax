@@ -8,8 +8,8 @@
   },
     "scripts": {
         "test": "node index.js",
-        "start": "node .",
-        "mineboty .": "node ."
+        "start": "node.",
+        "mineboty.": "node."
     },
  
 "dependencies": {
